@@ -3,7 +3,7 @@ Game
 ## Instruction:
 ### run:
 1- jdk java 8 edition  <br />
-2- compilare to run java programe <br />
+2- compiler  to run java programe <br />
 # instruction1:
 you should install the following libraries
 <br />
