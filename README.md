@@ -24,7 +24,7 @@ he has three tries and three levels .
  #### the second player play by using [KeyEvent.VK_A] if he want to go left __ [ KeyEvent.VK_D ] if he want to go right 
  #### level one contains 3 chikens and achieved by scoring 50 points .   
  #### level two contains 4 chikens  and achieved by scoring 70 points .
-
+<br/>
 ## if the egg missed the net, he will lose one try . <br/>
 
 ## he can make sound on / off on home scren .  <br/>
