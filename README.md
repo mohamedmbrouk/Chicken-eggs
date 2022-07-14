@@ -11,7 +11,7 @@ you should install the following libraries
 
 ## Overview:
 The project is divided into two parts: <br />
-### 1-one user play and two user:
+### 1-one player  and two player:
 #### - one  player
 he has three tries and three levels .
 #### the game contains three difficult levels [Easy - medium - Hard]
@@ -21,6 +21,8 @@ he has three tries and three levels .
 .
 #### - two players
  every one have 3 tries and have two level 
+ #### the first player play by using  [KeyEvent.VK_LEFT ] if he want to go left __ [ KeyEvent.VK_RIGHT ]  if he want to go right 
+ #### the second player play by using [KeyEvent.VK_A] if he want to go left __ [ KeyEvent.VK_D ] if he want to go right 
  #### level one contains 3 chikens and achieved by scoring 50 points .   
  #### level two contains 4 chikens  and achieved by scoring 70 points .
 
