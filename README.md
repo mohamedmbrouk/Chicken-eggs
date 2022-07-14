@@ -18,7 +18,6 @@ he has three tries and three levels .
 #### level one contains 3 chikens and achieved by scoring 50 points .   
 #### level two contains 4 chikens  and achieved by scoring 70 points .
 #### level three contains 5 chikens  and achieved by scoring 100 points .
-.
 #### - two players
  every one have 3 tries and have two level 
  #### the first player play by using  [KeyEvent.VK_LEFT ] if he want to go left __ [ KeyEvent.VK_RIGHT ]  if he want to go right 
