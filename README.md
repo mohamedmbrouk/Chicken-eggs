@@ -1,4 +1,4 @@
-# Chicken-Eggs-CS304
+.# Chicken-Eggs-CS304
 Game 
 ## Instruction:
 ### run:
