@@ -13,8 +13,8 @@ you should install the following libraries
 The project is divided into two parts: <br />
 ## 1-one player  and two player:
 ### - one  player
-he has three tries and three levels ..
-#### the game contains three difficult levels [Easy - medium - Hard]
+he has three tries and three levels .
+#### the game contains three difficult levels [Easy - medium - Hard].
 #### level one contains 3 chikens and achieved by scoring 50 points .   
 #### level two contains 4 chikens  and achieved by scoring 70 points .
 #### level three contains 5 chikens  and achieved by scoring 100 points .
